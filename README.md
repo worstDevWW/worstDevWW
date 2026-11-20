@@ -1,5 +1,5 @@
 # About Me:
-Technology and software have fascinated me for years, and it was very clear to me a long time ago, that I wanted to pursue a career in this field. And then along came Swisscom.
+Technology and software have fascinated me for years, and it was very clear to me a long time ago, that I wanted to pursue a career in this field.
 
 
 # What I've worked with:
